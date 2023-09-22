@@ -1,6 +1,5 @@
 ## Peoples
-- Demo : https://simplereactcalc.web.app/
-
+- Demo : https://simple-calculator-sourav.netlify.app/
 ### This project built with
 - ReactJS
 - Bootstrap
@@ -10,5 +9,3 @@
 - run the project
 - view on localhost:3000
 
-### Snapshoot
-- ![Screen 1](https://github.com/inact25/simpleReactCalculator/blob/simpleReactCalculator/src/snap1.png?raw=true)
